@@ -1,5 +1,5 @@
 package Filtros;
-
-public class MainApp {
+import pro
+public class MainApp extends PApplet {
 
 }
